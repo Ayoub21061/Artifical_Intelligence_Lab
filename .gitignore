@@ -1,0 +1,5 @@
+.DS_Store
+
+# MNIST-like ubyte dumps (too large for GitHub)
+*-images-idx3-ubyte
+*-labels-idx1-ubyte
