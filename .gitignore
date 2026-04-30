@@ -1,5 +1,8 @@
 .DS_Store
 
+# Dataset CSV (ne pas versionner)
+student_dataset/student_failure/train.csv
+
 # MNIST-like ubyte dumps (too large for GitHub)
 *-images-idx3-ubyte
 *-labels-idx1-ubyte
