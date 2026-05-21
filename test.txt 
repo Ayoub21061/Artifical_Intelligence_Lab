@@ -1,0 +1,17 @@
+advanced_ai.ipynb
+│
+├── Section 1 — Explainability
+│   ├── Cellule 1 : Rechargement XGBoost + preprocessing
+│   ├── Cellule 2 : SHAP Global (summary plot)
+│   ├── Cellule 3 : SHAP Local (waterfall plot étudiant à risque)
+│   ├── Cellule 4 : Réentraînement CNN  ← on commence ici
+│   └── Cellule 5 : Grad-CAM (zones importantes de l'image)
+│
+├── Section 2 — Bias
+│   ├── Cellule 6 : Analyse du biais par genre
+│   ├── Cellule 7 : Analyse du biais par diplôme
+│   └── Cellule 8 : Mitigation du biais
+│
+└── Section 3 — Security
+    ├── Cellule 9 : Attaque adversariale Failure Prediction
+    └── Cellule 10 : Discussion risque OCR
